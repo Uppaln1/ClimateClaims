@@ -1,4 +1,4 @@
-# Claim
+# Climate Claim
 # Article Reference
 Everett, J., 2020. Facts about Climate Change Science and Ocean Acidification, truth from consensus and climate change skeptics. [Informative] Climate Change Facts. Available at: <http://www.climatechangefacts.info/#OceanAcidification> [Accessed 24 Oct. 2021].
 
@@ -8,6 +8,9 @@ Everett, J., 2020. Facts about Climate Change Science and Ocean Acidification, t
 	The scientific claims made by John Everett in this article undermine his credibility as a marine biologist with the IPCC and are not plausible. As they are rooted in misinterpreted facts and logical fallacies they are particularly harmful to those skeptical and unknowing of modern science. It is important we understand where we obtain our scientific knowledge from particularly making sure we are acknowledging and understanding all the intricacies of the topic. Only in this way will change be made.
   
 # References
+
 Dupont, S., Dorey, N. and Thorndyke, M., 2010. What meta-analysis can tell us about the vulnerability of marine biodiversity to ocean acidification? Estuarine, Coastal and Shelf Science, 89(2), pp.182–185. https://doi.org/10.1016/j.ecss.2010.06.013.
+
 Iglesias-Rodriguez, M.D., Halloran, P.R., Rickaby, R.E.M., Hall, I.R., Colmenero-Hidalgo, E., Gittins, J.R., Green, D.R.H., Tyrrell, T., Gibbs, S.J., von Dassow, P., Rehm, E., Armbrust, E.V. and Boessenkool, K.P., 2008. Phytoplankton calcification in a high-CO2 world. Science (New York, N.Y.), 320(5874), pp.336–340. https://doi.org/10.1126/science.1154122.
+
 Ries, J.B., Cohen, A.L. and McCorkle, D.C., 2009. Marine calcifiers exhibit mixed responses to CO2-induced ocean acidification. Geology, 37(12), pp.1131–1134. https://doi.org/10.1130/G30210A.1.
